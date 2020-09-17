@@ -1,6 +1,6 @@
 # Blog app
 
-this is a blog application with authentcation and authorization, using the jsonWebToken or jwt.
+this is a blog application with authentication and authorization, using the jsonWebToken or jwt.
 
 # There are two destinations in the architecture of the app.
 
