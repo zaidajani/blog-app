@@ -99,4 +99,4 @@ router.put('/post/:id', auth, async (req, res) => {
     res.send(done);
 });
 
-module.exports = router;
+module.exports = router; // exporting the router so that it can be accessed dirctly from the index file itself.
